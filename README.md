@@ -8,9 +8,15 @@ A Node.js backend application built with Express and TypeScript for managing boo
 - Filter Books: Filter books by title, author, or year.
 - Testing: Included unit tests and end-to-end tests.
 
-## Installation
+## Installation (Backend)
 
 ```bash
 git clone https://github.com/theabdul129/book-store-mern.git
-cd book-store-mern
+cd book-store-mern/books-be
+```
+
+## Installation (FrontEnd)
+
+```bash
+cd book-store-mern/books-fe
 ```
