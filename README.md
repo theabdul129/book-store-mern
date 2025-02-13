@@ -4,11 +4,13 @@ A Node.js backend application built with Express and TypeScript for managing boo
 ## Features
 
 - Add a Book: Add a new book with title, author, and year.
-
 - List All Books: Retrieve a list of all books.
-
 - Filter Books: Filter books by title, author, or year.
+- Testing: Included unit tests and end-to-end tests.
 
-- Scalable: Designed to handle a large number of users.
+## Installation
 
-- Testing: Includes unit tests and end-to-end tests.
+```bash
+git clone https://github.com/theabdul129/book-store-mern.git
+cd book-store-mern
+```
