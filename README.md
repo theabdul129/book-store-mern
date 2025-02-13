@@ -13,10 +13,30 @@ A Node.js backend application built with Express and TypeScript for managing boo
 ```bash
 git clone https://github.com/theabdul129/book-store-mern.git
 cd book-store-mern/books-be
+npm install
+npm start
+
 ```
 
 ## Installation (FrontEnd)
 
 ```bash
 cd book-store-mern/books-fe
+npm install
+npm run dev
+
+```
+
+### Run Unit Tests:
+
+```bash
+npm test
+
+```
+
+### Run End-to-End Tests:
+
+```bash
+npm run test:e2e
+
 ```
